@@ -2,7 +2,7 @@
 
 A Repo to Practice Coding Interview Questions
 
-![Alt Text](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
+![Alt Text](https://media.giphy.com/media/13LWPTEyhdNMU8/giphy.gif)
 
 
 * 344 -> Reverse String
