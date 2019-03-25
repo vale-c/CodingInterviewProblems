@@ -2,10 +2,13 @@
 
 A Repo to Practice Coding Interview Questions
 
+![Alt Text](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
+
+
 * 344 -> Reverse String
 * 104 -> Maximum Depth of Binary Tree
 * 136 -> Single Number
-* 412 -> Fizz Buzz
+* 701 -> Insert into a Binary Search Tree
 * 94 -> Binary Tree Inorder Traversal
 * 238 -> Product of Array Except Self
 * 46 -> Permutations
