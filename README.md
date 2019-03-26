@@ -4,7 +4,7 @@ A Repo to Practice Coding Interview Questions
 
 ![Alt Text](https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif)
 
-
+* [x] 1 -> Two Sum 
 * [] 22 -> Generate Parentheses
 * [] 46 -> Permutations
 * [] 94 -> Binary Tree Inorder Traversal
