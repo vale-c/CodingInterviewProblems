@@ -9,7 +9,7 @@ A Repo to Practice Coding Interview Questions
 * [] 46 -> Permutations
 * [] 94 -> Binary Tree Inorder Traversal
 * [] 104 -> Maximum Depth of Binary Tree
-* [] 136 -> Single Number
+* [x] 136 -> Single Number
 * [] 206 -> Reverse Linked List
 * [x] 226 -> Invert Binary Tree
 * [] 237 -> Delete Node in a Linked List
