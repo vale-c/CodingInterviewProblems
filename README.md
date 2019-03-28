@@ -1,4 +1,4 @@
-# LeetCodeGrind
+# CodingInterviewProblems 
 
 A Repo to Practice Coding Interview Questions
 
