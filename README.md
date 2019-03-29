@@ -7,7 +7,7 @@ A Repo to Practice Coding Interview Questions
 * [x] 1 -> Two Sum 
 * [ ] 15 -> 3Sum
 * [ ] 22 -> Generate Parentheses
-* [ ] 33 -> Search in Rotated Sorted Array
+* [x] 33 -> Search in Rotated Sorted Array
 * [ ] 34 -> Find First and Last Position of Element in Sorted Array
 * [ ] 46 -> Permutations
 * [ ] 55 -> Jump Game
