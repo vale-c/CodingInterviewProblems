@@ -8,3 +8,10 @@ with uniform probability, implement a function rand5() that returns an integer f
 
 */
 
+function random5Func() {
+
+  let result = Math.random(1,5);
+
+  return result;
+
+};

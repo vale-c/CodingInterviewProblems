@@ -17,15 +17,53 @@
 # Input: nums = [4,5,6,7,0,1,2], target = 3
 # Output: -1
 
+    #O(n) Time Solution 
+    # (slower but only 4 lines of code!)
+
+#class Solution(object):
+    #def search(self, nums, target):
+        # for i in range(len(nums)):
+        #     if target in nums:
+        #         return nums.index(target)
+        # return -1
+
+#CORRECT IMPLEMENTATION USING BINARY SEARCH!
 class Solution(object):
+
     def search(self, nums, target):
         """
         :type nums: List[int]
         :type target: int
         :rtype: int
         """
+        if nums is None:  # if the array is empty
+            return -1
 
-        for i in range(len(nums)):
-            if target in nums:
-                return nums.index(target)
+        left, right = 0, len(nums) - 1
+
+        while (left <= right):  # check boundaries
+            mid = (left + right) / 2
+
+            if (nums[mid] == target):  # if the target corresponds to the mid element in the array
+                return mid
+
+            if nums[left] <= nums[mid]:  # leftmost side
+                # if the target is in the left side of the array
+                if nums[left] <= target <= nums[mid]:
+                    right = mid - 1  # move backwards by 1
+                else:
+                    left = mid + 1  # move forward by 1
+
+            else:  # rightmost side of the array
+                # if the target is in the right side of the array
+                if nums[mid] <= target <= nums[right]:
+                    left = mid + 1  # move forward by 1
+                else:
+                    right = mid - 1  # move backwards by 1
         return -1
+
+
+
+
+
+
