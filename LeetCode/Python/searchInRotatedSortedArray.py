@@ -17,8 +17,8 @@
 # Input: nums = [4,5,6,7,0,1,2], target = 3
 # Output: -1
 
-    #O(n) Time Solution 
-    # (slower but only 4 lines of code!)
+#O(n) Time Solution     
+# slower but only 4 lines of code!
 
 #class Solution(object):
     #def search(self, nums, target):
@@ -54,9 +54,8 @@ class Solution(object):
                 else:
                     left = mid + 1  # move forward by 1
 
-            else:  # rightmost side of the array
-                # if the target is in the right side of the array
-                if nums[mid] <= target <= nums[right]:
+            else:  # rightmost side of the array     
+                if nums[mid] <= target <= nums[right]: # if the target is in the right side of the array
                     left = mid + 1  # move forward by 1
                 else:
                     right = mid - 1  # move backwards by 1
