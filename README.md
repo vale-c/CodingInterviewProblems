@@ -10,7 +10,7 @@ A Repo to Practice Coding Interview Questions
 * [x] 33 -> Search in Rotated Sorted Array
 * [ ] 34 -> Find First and Last Position of Element in Sorted Array
 * [ ] 46 -> Permutations
-* [ ] 55 -> Jump Game
+* [x] 55 -> Jump Game
 * [ ] 94 -> Binary Tree Inorder Traversal
 * [ ] 104 -> Maximum Depth of Binary Tree
 * [x] 136 -> Single Number
