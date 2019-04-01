@@ -1,10 +1,10 @@
-# CodingInterviewProblems 
+# CodingInterviewProblems
 
 A Repo to Practice Coding Interview Questions
 
 ![Alt Text](https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif)
 
-* [x] 1 -> Two Sum 
+* [x] 1 -> Two Sum
 * [ ] 15 -> 3Sum
 * [ ] 22 -> Generate Parentheses
 * [x] 33 -> Search in Rotated Sorted Array
@@ -23,6 +23,7 @@ A Repo to Practice Coding Interview Questions
 * [ ] 322 -> Coin Change
 * [ ] 344 -> Reverse String
 * [ ] 347 -> Top K Frequent Elements
+* [x] 535 -> Encode and Decode TinyURL
 * [x] 617 -> Merge Two Binary Trees
 * [x] 701 -> Insert into a Binary Search Tree
 * [x] 807 -> Max Increase to Keep City Skyline
