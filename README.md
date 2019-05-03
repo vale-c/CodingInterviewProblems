@@ -15,6 +15,7 @@ A Repo to Practice Coding Interview Questions
 * [ ] 104 -> Maximum Depth of Binary Tree
 * [x] 136 -> Single Number
 * [x] 160 -> Intersection of Two Linked Lists
+* [x] 200 -> Number Of Islands
 * [ ] 206 -> Reverse Linked List
 * [x] 226 -> Invert Binary Tree
 * [ ] 237 -> Delete Node in a Linked List
@@ -25,5 +26,6 @@ A Repo to Practice Coding Interview Questions
 * [ ] 347 -> Top K Frequent Elements
 * [x] 535 -> Encode and Decode TinyURL
 * [x] 617 -> Merge Two Binary Trees
+* [x] 695 -> Max Area Of Island
 * [x] 701 -> Insert into a Binary Search Tree
 * [x] 807 -> Max Increase to Keep City Skyline
