@@ -1,8 +1,11 @@
 # CodingInterviewProblems
 
 A Repo to Practice Coding Interview Questions
-
-![Alt Text](https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif)
+<br><br>
+<a href="url">
+<img src="https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif" align="center" height="400" width="500">
+</a>
+<br><br>
 
 * [x] 1 -> Two Sum
 * [ ] 15 -> 3Sum
