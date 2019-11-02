@@ -25,8 +25,8 @@ class Solution {
             }
             
             hmap.put(nums[i], i);
-     }
+        }
         return result;
-  }
+    }
     
 }
