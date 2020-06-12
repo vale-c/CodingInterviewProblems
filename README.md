@@ -1,9 +1,10 @@
 # CodingInterviewProblems
 
-A Repo to Practice Coding Interview Questions
+A joint Repo to Practice LeetCode Interview Questions
+
 <br><br>
 <a href="url">
-<img src="https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif" align="center" height="400" width="500">
+<img src="https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif" align="center" height="300" width="400">
 </a>
 <br><br>
 
