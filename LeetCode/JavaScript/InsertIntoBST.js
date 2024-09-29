@@ -27,3 +27,8 @@ var insertIntoBST = function (root, val) {
 
   return root;
 };
+
+/**
+ * Time Complexity: O(H), where H is the height of the tree. In the worst case, it can be O(N) for a skewed tree.
+ * Space Complexity: O(H) for the recursion stack, where H is the height of the tree.
+ */

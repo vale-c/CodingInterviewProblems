@@ -7,7 +7,7 @@ var largestWordCount = function(messages, senders) {
     let map = new Map();
 
     for (let i = 0; i < messages.length; i++) {
-        // Get the number of words contained in the  current message
+        // Get the number of words contained in the current message
         let wordCount = messages[i].split(' ').length;
         // Check if the sender already exists in the map
         let currentCount = map.get(senders[i]) || 0;
@@ -28,3 +28,6 @@ var largestWordCount = function(messages, senders) {
 
     return largestSender;
 };
+
+// Time Complexity: O(n * m) - where n is the number of messages and m is the average length of the messages (for splitting).
+// Space Complexity: O(k) - where k is the number of unique senders stored in the map.

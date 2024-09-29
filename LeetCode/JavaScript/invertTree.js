@@ -18,5 +18,9 @@ var invertTree = function (root) {
   root.right = invertTree(tmp);
 
   return root;
-
 };
+
+/**
+ * Time Complexity: O(N), where N is the number of nodes in the tree, as each node is visited once.
+ * Space Complexity: O(H), where H is the height of the tree, due to the recursion stack.
+ */

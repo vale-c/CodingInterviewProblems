@@ -7,3 +7,7 @@ var singleNumber = function (nums) {
   return singleVal;
 };
 
+/**
+ * Time Complexity: O(n) - We traverse the array once.
+ * Space Complexity: O(1) - We use a constant amount of space.
+ */

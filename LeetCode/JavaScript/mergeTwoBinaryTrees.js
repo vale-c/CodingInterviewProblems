@@ -28,3 +28,8 @@ var mergeTrees = function (t1, t2) {
   return root;
 
 };
+
+/** 
+* Time Complexity: O(n), where n is the number of nodes in the merged tree.
+* Space Complexity: O(h), where h is the height of the tree due to recursion stack.
+*/

@@ -3,7 +3,6 @@
  * @return {boolean}
  */
 var canJump = function (nums) {
-
   let max = nums[0];
   let i = 0;
 
@@ -15,6 +14,7 @@ var canJump = function (nums) {
   }
 
   return max >= nums.length - 1;  //it returns true if you can reach the last element
-
-
 };
+
+// Time Complexity: O(n) - We traverse the array once.
+// Space Complexity: O(1) - We use a constant amount of space.

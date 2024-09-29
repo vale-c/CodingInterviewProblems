@@ -28,3 +28,6 @@ var maxIncreaseKeepingSkyline = function (grid) {
 
   return counter;
 };
+
+// Time Complexity: O(n^2) - We traverse the grid twice, where n is the length of one side of the grid.
+// Space Complexity: O(n) - We use two additional arrays to store the maximum values for rows and columns.

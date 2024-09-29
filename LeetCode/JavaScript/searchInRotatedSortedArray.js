@@ -4,11 +4,6 @@
  * @return {number}
  */
 
-/* 
-Runtime: 60 ms, faster than 95.70% of JavaScript online submissions for Search in Rotated Sorted Array.
-Memory Usage: 33.8 MB, less than 46.85% of JavaScript online submissions for Search in Rotated Sorted Array.
- */
-
 var search = function (nums, target) {
   if (nums.length === 0) return -1; // check if the array is empty
 
@@ -44,3 +39,8 @@ var search = function (nums, target) {
   return -1;
 
 };
+
+/**
+ * Time Complexity: O(log n) - The algorithm uses binary search, which divides the search space in half each iteration.
+ * Space Complexity: O(1) - The algorithm uses a constant amount of space for variables.
+ */
